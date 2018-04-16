@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">系统权限测试</string>
+    <string name="tips">
+        警告:\n
+        当你看到这些文字的时候,说明你已经成功将这个应用安装到你的Android设备上了。\n
+        这个应用是检测你的手机的系统签名是否Android默认的签名。\n
+        这个签名文件存在Android源代码里,Android是开放源代码的,默认签名文件是人人都可以获取得到。\n
+        这说明你的Android设备处于风险之中,如果你担心设备安全,建议你尽快更换AndroidOS。
+        获取源代码以及签名文件:https://github.com/h4de5ing/TestSystemPermission
+    </string>
+</resources>

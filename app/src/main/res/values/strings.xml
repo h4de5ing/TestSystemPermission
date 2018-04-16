@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestSystemPermission</string>
+    <string name="tips">
+       Warning:\n
+         When you see this text, you have successfully installed the application on your Android device. \n
+         This app is to detect if your phone\'s system signature is Android\'s default signature. \n
+         This signature file exists in the Android source code, Android is open source, so this signature is available to everyone. \n
+         This shows that your Android device is at risk. If you are worried about the security of your device, it is recommended that you replace AndroidOS as soon as possible.\n
+        Get the source code and signature file:https://github.com/h4de5ing/TestSystemPermission
+    </string>
+</resources>
