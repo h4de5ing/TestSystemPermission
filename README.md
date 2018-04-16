@@ -5,7 +5,9 @@
 https://source.android.com/devices/tech/ota/sign_builds
 https://android.googlesource.com/platform/build/+/donut-release/target/product/security/platform.x509.pem
 https://www.jianshu.com/p/69525b2b4937
+https://github.com/h4de5ing/TestSystemPermission/releases
 
+```
 -----BEGIN CERTIFICATE-----
 MIIEqDCCA5CgAwIBAgIJALOZgIbQVs/6MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYD
 VQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4g
@@ -33,3 +35,4 @@ tCsgSL+ItdFJKe+F9g7dEtctVWV+IuPoXQTIMdYT0Zk4u4mCJH+jISVroS0dao+S
 J17XOElatuWTG5QhdlxJG3L7aOCA29tYwgKdNHyLMozkPvaosVUz7fvpib1qSN1L
 IC7alMarjdW4OZID2q4u1EYjLk/pvZYTlMYwDlE448/Shebk5INTjLixs1c=
 -----END CERTIFICATE-----
+```
